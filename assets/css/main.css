@@ -2851,6 +2851,16 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.c {
+			display: block;
+			margin: 0 0 0em 10em;
+			width: 75%;
+		}
+
+			.image.c img {
+				width: 100%;
+			}
+
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
@@ -2860,6 +2870,8 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+		
+		
 
 /* List */
 
